@@ -1,6 +1,6 @@
+# Syllabus
 
-
-# Subject Name: Mobile Application Development Laboratory
+# Subject Name: Mobile Application Development Laboratory 
 
 **Special Instruction related to resources requirement: Software like Android Studio.**
 1. **Android Development Environment:** To study design aspects of development environment like Android,
